@@ -1,4 +1,5 @@
-[](./media/media/image1.png){width="5.519475065616798in"
+![test](./media/media/image1.png) 
+{width="5.519475065616798in"
 height="5.298013998250219in"}
 
 Material för kurser i QGIS 3.4 åt QGIS Sverige 2019.
